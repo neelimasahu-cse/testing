@@ -1,0 +1,84 @@
+C:\Users\neeli\source\repos\MulitipleViews\obj\Debug\net6.0-windows\MulitipleViews.csproj.AssemblyReference.cache
+C:\Users\neeli\source\repos\MulitipleViews\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\neeli\source\repos\MulitipleViews\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\neeli\source\repos\MulitipleViews\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\neeli\source\repos\MulitipleViews\obj\Debug\net6.0-windows\MulitipleViews_MarkupCompile.cache
+C:\Users\neeli\source\repos\MulitipleViews\obj\Debug\net6.0-windows\MulitipleViews_MarkupCompile.lref
+C:\Users\neeli\source\repos\MulitipleViews\bin\Debug\net6.0-windows\MulitipleViews.exe
+C:\Users\neeli\source\repos\MulitipleViews\bin\Debug\net6.0-windows\MulitipleViews.deps.json
+C:\Users\neeli\source\repos\MulitipleViews\bin\Debug\net6.0-windows\MulitipleViews.runtimeconfig.json
+C:\Users\neeli\source\repos\MulitipleViews\bin\Debug\net6.0-windows\MulitipleViews.dll
+C:\Users\neeli\source\repos\MulitipleViews\bin\Debug\net6.0-windows\MulitipleViews.pdb
+C:\Users\neeli\source\repos\MulitipleViews\obj\Debug\net6.0-windows\Views\ClothesView.g.cs
+C:\Users\neeli\source\repos\MulitipleViews\obj\Debug\net6.0-windows\Views\ElectricalsView.g.cs
+C:\Users\neeli\source\repos\MulitipleViews\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\neeli\source\repos\MulitipleViews\obj\Debug\net6.0-windows\Views\ClothesView.baml
+C:\Users\neeli\source\repos\MulitipleViews\obj\Debug\net6.0-windows\Views\ElectricalsView.baml
+C:\Users\neeli\source\repos\MulitipleViews\obj\Debug\net6.0-windows\MulitipleViews.g.resources
+C:\Users\neeli\source\repos\MulitipleViews\obj\Debug\net6.0-windows\MulitipleViews.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neeli\source\repos\MulitipleViews\obj\Debug\net6.0-windows\MulitipleViews.AssemblyInfoInputs.cache
+C:\Users\neeli\source\repos\MulitipleViews\obj\Debug\net6.0-windows\MulitipleViews.AssemblyInfo.cs
+C:\Users\neeli\source\repos\MulitipleViews\obj\Debug\net6.0-windows\MulitipleViews.csproj.CoreCompileInputs.cache
+C:\Users\neeli\source\repos\MulitipleViews\obj\Debug\net6.0-windows\MulitipleViews.dll
+C:\Users\neeli\source\repos\MulitipleViews\obj\Debug\net6.0-windows\refint\MulitipleViews.dll
+C:\Users\neeli\source\repos\MulitipleViews\obj\Debug\net6.0-windows\MulitipleViews.pdb
+C:\Users\neeli\source\repos\MulitipleViews\obj\Debug\net6.0-windows\MulitipleViews.genruntimeconfig.cache
+C:\Users\neeli\source\repos\MulitipleViews\obj\Debug\net6.0-windows\ref\MulitipleViews.dll
+C:\Users\neeli\source\repos\MulitipleViews\obj\Debug\net6.0-windows\Views\ShoesView.g.cs
+C:\Users\neeli\source\repos\MulitipleViews\obj\Debug\net6.0-windows\Views\ShoesView.baml
+C:\Users\pavva\OneDrive\Desktop\WPFProject-main\WPFProject-main\MulitipleViews\MulitipleViews\obj\Debug\net6.0-windows\MulitipleViews.csproj.AssemblyReference.cache
+C:\Users\pavva\OneDrive\Desktop\WPFProject-main\WPFProject-main\MulitipleViews\MulitipleViews\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\pavva\OneDrive\Desktop\WPFProject-main\WPFProject-main\MulitipleViews\MulitipleViews\obj\Debug\net6.0-windows\Views\ClothesView.g.cs
+C:\Users\pavva\OneDrive\Desktop\WPFProject-main\WPFProject-main\MulitipleViews\MulitipleViews\obj\Debug\net6.0-windows\Views\ElectricalsView.g.cs
+C:\Users\pavva\OneDrive\Desktop\WPFProject-main\WPFProject-main\MulitipleViews\MulitipleViews\obj\Debug\net6.0-windows\Views\ShoesView.g.cs
+C:\Users\pavva\OneDrive\Desktop\WPFProject-main\WPFProject-main\MulitipleViews\MulitipleViews\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\pavva\OneDrive\Desktop\WPFProject-main\WPFProject-main\MulitipleViews\MulitipleViews\obj\Debug\net6.0-windows\MulitipleViews_MarkupCompile.cache
+C:\Users\pavva\OneDrive\Desktop\WPFProject-main\WPFProject-main\MulitipleViews\MulitipleViews\obj\Debug\net6.0-windows\MulitipleViews_MarkupCompile.lref
+C:\Users\pavva\OneDrive\Desktop\WPFProject-main\WPFProject-main\MulitipleViews\MulitipleViews\obj\Debug\net6.0-windows\MulitipleViews.dll
+C:\Users\pavva\OneDrive\Desktop\WPFProject-main\WPFProject-main\MulitipleViews\MulitipleViews\obj\Debug\net6.0-windows\refint\MulitipleViews.dll
+C:\Users\pavva\OneDrive\Desktop\WPFProject-main\WPFProject-main\MulitipleViews\MulitipleViews\obj\Debug\net6.0-windows\MulitipleViews.pdb
+C:\Users\pavva\OneDrive\Desktop\WPFProject-main\WPFProject-main\MulitipleViews\MulitipleViews\bin\Debug\net6.0-windows\MulitipleViews.exe
+C:\Users\pavva\OneDrive\Desktop\WPFProject-main\WPFProject-main\MulitipleViews\MulitipleViews\bin\Debug\net6.0-windows\MulitipleViews.deps.json
+C:\Users\pavva\OneDrive\Desktop\WPFProject-main\WPFProject-main\MulitipleViews\MulitipleViews\bin\Debug\net6.0-windows\MulitipleViews.runtimeconfig.json
+C:\Users\pavva\OneDrive\Desktop\WPFProject-main\WPFProject-main\MulitipleViews\MulitipleViews\bin\Debug\net6.0-windows\MulitipleViews.dll
+C:\Users\pavva\OneDrive\Desktop\WPFProject-main\WPFProject-main\MulitipleViews\MulitipleViews\bin\Debug\net6.0-windows\MulitipleViews.pdb
+C:\Users\pavva\OneDrive\Desktop\WPFProject-main\WPFProject-main\MulitipleViews\MulitipleViews\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\pavva\OneDrive\Desktop\WPFProject-main\WPFProject-main\MulitipleViews\MulitipleViews\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\pavva\OneDrive\Desktop\WPFProject-main\WPFProject-main\MulitipleViews\MulitipleViews\obj\Debug\net6.0-windows\Views\ClothesView.baml
+C:\Users\pavva\OneDrive\Desktop\WPFProject-main\WPFProject-main\MulitipleViews\MulitipleViews\obj\Debug\net6.0-windows\Views\ElectricalsView.baml
+C:\Users\pavva\OneDrive\Desktop\WPFProject-main\WPFProject-main\MulitipleViews\MulitipleViews\obj\Debug\net6.0-windows\Views\ShoesView.baml
+C:\Users\pavva\OneDrive\Desktop\WPFProject-main\WPFProject-main\MulitipleViews\MulitipleViews\obj\Debug\net6.0-windows\MulitipleViews.g.resources
+C:\Users\pavva\OneDrive\Desktop\WPFProject-main\WPFProject-main\MulitipleViews\MulitipleViews\obj\Debug\net6.0-windows\MulitipleViews.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pavva\OneDrive\Desktop\WPFProject-main\WPFProject-main\MulitipleViews\MulitipleViews\obj\Debug\net6.0-windows\MulitipleViews.AssemblyInfoInputs.cache
+C:\Users\pavva\OneDrive\Desktop\WPFProject-main\WPFProject-main\MulitipleViews\MulitipleViews\obj\Debug\net6.0-windows\MulitipleViews.AssemblyInfo.cs
+C:\Users\pavva\OneDrive\Desktop\WPFProject-main\WPFProject-main\MulitipleViews\MulitipleViews\obj\Debug\net6.0-windows\MulitipleViews.csproj.CoreCompileInputs.cache
+C:\Users\pavva\OneDrive\Desktop\WPFProject-main\WPFProject-main\MulitipleViews\MulitipleViews\obj\Debug\net6.0-windows\MulitipleViews.genruntimeconfig.cache
+C:\Users\pavva\OneDrive\Desktop\WPFProject-main\WPFProject-main\MulitipleViews\MulitipleViews\obj\Debug\net6.0-windows\ref\MulitipleViews.dll
+C:\Users\neeli\Desktop\WPFProject-main (2)\WPFProject-main\WPFProject-main\MulitipleViews\MulitipleViews\bin\Debug\net6.0-windows\MulitipleViews.exe
+C:\Users\neeli\Desktop\WPFProject-main (2)\WPFProject-main\WPFProject-main\MulitipleViews\MulitipleViews\bin\Debug\net6.0-windows\MulitipleViews.deps.json
+C:\Users\neeli\Desktop\WPFProject-main (2)\WPFProject-main\WPFProject-main\MulitipleViews\MulitipleViews\bin\Debug\net6.0-windows\MulitipleViews.runtimeconfig.json
+C:\Users\neeli\Desktop\WPFProject-main (2)\WPFProject-main\WPFProject-main\MulitipleViews\MulitipleViews\bin\Debug\net6.0-windows\MulitipleViews.dll
+C:\Users\neeli\Desktop\WPFProject-main (2)\WPFProject-main\WPFProject-main\MulitipleViews\MulitipleViews\bin\Debug\net6.0-windows\MulitipleViews.pdb
+C:\Users\neeli\Desktop\WPFProject-main (2)\WPFProject-main\WPFProject-main\MulitipleViews\MulitipleViews\obj\Debug\net6.0-windows\MulitipleViews.csproj.AssemblyReference.cache
+C:\Users\neeli\Desktop\WPFProject-main (2)\WPFProject-main\WPFProject-main\MulitipleViews\MulitipleViews\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\neeli\Desktop\WPFProject-main (2)\WPFProject-main\WPFProject-main\MulitipleViews\MulitipleViews\obj\Debug\net6.0-windows\Views\ClothesView.g.cs
+C:\Users\neeli\Desktop\WPFProject-main (2)\WPFProject-main\WPFProject-main\MulitipleViews\MulitipleViews\obj\Debug\net6.0-windows\Views\ElectricalsView.g.cs
+C:\Users\neeli\Desktop\WPFProject-main (2)\WPFProject-main\WPFProject-main\MulitipleViews\MulitipleViews\obj\Debug\net6.0-windows\Views\ShoesView.g.cs
+C:\Users\neeli\Desktop\WPFProject-main (2)\WPFProject-main\WPFProject-main\MulitipleViews\MulitipleViews\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\neeli\Desktop\WPFProject-main (2)\WPFProject-main\WPFProject-main\MulitipleViews\MulitipleViews\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\neeli\Desktop\WPFProject-main (2)\WPFProject-main\WPFProject-main\MulitipleViews\MulitipleViews\obj\Debug\net6.0-windows\MulitipleViews_MarkupCompile.cache
+C:\Users\neeli\Desktop\WPFProject-main (2)\WPFProject-main\WPFProject-main\MulitipleViews\MulitipleViews\obj\Debug\net6.0-windows\MulitipleViews_MarkupCompile.lref
+C:\Users\neeli\Desktop\WPFProject-main (2)\WPFProject-main\WPFProject-main\MulitipleViews\MulitipleViews\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\neeli\Desktop\WPFProject-main (2)\WPFProject-main\WPFProject-main\MulitipleViews\MulitipleViews\obj\Debug\net6.0-windows\Views\ClothesView.baml
+C:\Users\neeli\Desktop\WPFProject-main (2)\WPFProject-main\WPFProject-main\MulitipleViews\MulitipleViews\obj\Debug\net6.0-windows\Views\ElectricalsView.baml
+C:\Users\neeli\Desktop\WPFProject-main (2)\WPFProject-main\WPFProject-main\MulitipleViews\MulitipleViews\obj\Debug\net6.0-windows\Views\ShoesView.baml
+C:\Users\neeli\Desktop\WPFProject-main (2)\WPFProject-main\WPFProject-main\MulitipleViews\MulitipleViews\obj\Debug\net6.0-windows\MulitipleViews.g.resources
+C:\Users\neeli\Desktop\WPFProject-main (2)\WPFProject-main\WPFProject-main\MulitipleViews\MulitipleViews\obj\Debug\net6.0-windows\MulitipleViews.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neeli\Desktop\WPFProject-main (2)\WPFProject-main\WPFProject-main\MulitipleViews\MulitipleViews\obj\Debug\net6.0-windows\MulitipleViews.AssemblyInfoInputs.cache
+C:\Users\neeli\Desktop\WPFProject-main (2)\WPFProject-main\WPFProject-main\MulitipleViews\MulitipleViews\obj\Debug\net6.0-windows\MulitipleViews.AssemblyInfo.cs
+C:\Users\neeli\Desktop\WPFProject-main (2)\WPFProject-main\WPFProject-main\MulitipleViews\MulitipleViews\obj\Debug\net6.0-windows\MulitipleViews.csproj.CoreCompileInputs.cache
+C:\Users\neeli\Desktop\WPFProject-main (2)\WPFProject-main\WPFProject-main\MulitipleViews\MulitipleViews\obj\Debug\net6.0-windows\MulitipleViews.dll
+C:\Users\neeli\Desktop\WPFProject-main (2)\WPFProject-main\WPFProject-main\MulitipleViews\MulitipleViews\obj\Debug\net6.0-windows\refint\MulitipleViews.dll
+C:\Users\neeli\Desktop\WPFProject-main (2)\WPFProject-main\WPFProject-main\MulitipleViews\MulitipleViews\obj\Debug\net6.0-windows\MulitipleViews.pdb
+C:\Users\neeli\Desktop\WPFProject-main (2)\WPFProject-main\WPFProject-main\MulitipleViews\MulitipleViews\obj\Debug\net6.0-windows\MulitipleViews.genruntimeconfig.cache
+C:\Users\neeli\Desktop\WPFProject-main (2)\WPFProject-main\WPFProject-main\MulitipleViews\MulitipleViews\obj\Debug\net6.0-windows\ref\MulitipleViews.dll
